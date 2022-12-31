@@ -1,0 +1,38 @@
+html {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-indent: 35px;
+  font-size: 18pt;
+}
+body{
+	width: 880px;
+	margin: auto;
+}
+
+body > h1{
+	text-align: center;
+}
+
+p{
+  text-indent: 35px;
+  font-size: 18pt;
+	background-color: rgb(255, 255, 255);
+	border-radius: 250px;
+	color:rgb(0, 0, 0);
+	padding: 80px;
+	text-shadow: rgb(255, 255, 255) 3px 3px 7px;
+	text-emphasis-color: orangered;
+	margin-top: 16px;
+	margin-bottom: 400px;
+}
+
+output h1 {
+	background-color: rgb(0, 128, 255);
+	border-radius: 250px;
+	color:white;
+	padding: 80px;
+	text-shadow: black 3px 3px 7px;
+	text-emphasis-color: orangered;
+	margin-top: 16px;
+  text-indent: 35px;
+  font-size: 18pt;
+}
